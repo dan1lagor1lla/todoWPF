@@ -1,0 +1,138 @@
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\wpf-todo.exe
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\wpf-todo.deps.json
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\wpf-todo.runtimeconfig.json
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\wpf-todo.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\wpf-todo.pdb
+D:\education\ilya vasilevich\wpf-todo\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\education\ilya vasilevich\wpf-todo\obj\Debug\net7.0-windows\App.g.cs
+D:\education\ilya vasilevich\wpf-todo\obj\Debug\net7.0-windows\wpf-todo_MarkupCompile.cache
+D:\education\ilya vasilevich\wpf-todo\obj\Debug\net7.0-windows\wpf-todo_MarkupCompile.lref
+D:\education\ilya vasilevich\wpf-todo\obj\Debug\net7.0-windows\MainWindow.baml
+D:\education\ilya vasilevich\wpf-todo\obj\Debug\net7.0-windows\wpf-todo.g.resources
+D:\education\ilya vasilevich\wpf-todo\obj\Debug\net7.0-windows\wpf-todo.GeneratedMSBuildEditorConfig.editorconfig
+D:\education\ilya vasilevich\wpf-todo\obj\Debug\net7.0-windows\wpf-todo.AssemblyInfoInputs.cache
+D:\education\ilya vasilevich\wpf-todo\obj\Debug\net7.0-windows\wpf-todo.AssemblyInfo.cs
+D:\education\ilya vasilevich\wpf-todo\obj\Debug\net7.0-windows\wpf-todo.csproj.CoreCompileInputs.cache
+D:\education\ilya vasilevich\wpf-todo\obj\Debug\net7.0-windows\wpf-todo.dll
+D:\education\ilya vasilevich\wpf-todo\obj\Debug\net7.0-windows\refint\wpf-todo.dll
+D:\education\ilya vasilevich\wpf-todo\obj\Debug\net7.0-windows\wpf-todo.pdb
+D:\education\ilya vasilevich\wpf-todo\obj\Debug\net7.0-windows\wpf-todo.genruntimeconfig.cache
+D:\education\ilya vasilevich\wpf-todo\obj\Debug\net7.0-windows\ref\wpf-todo.dll
+D:\education\ilya vasilevich\wpf-todo\obj\Debug\net7.0-windows\wpf-todo.csproj.AssemblyReference.cache
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\education\ilya vasilevich\wpf-todo\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\education\ilya vasilevich\wpf-todo\obj\Debug\net7.0-windows\wpf-todo.csproj.Up2Date
+D:\education\ilya vasilevich\wpf-todo\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\wpf-todo.exe
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\wpf-todo.deps.json
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\wpf-todo.runtimeconfig.json
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\wpf-todo.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\wpf-todo.pdb
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\obj\Debug\net7.0-windows\wpf-todo.csproj.AssemblyReference.cache
+C:\Users\taras\OneDrive\Desktop\wpf-todo\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\taras\OneDrive\Desktop\wpf-todo\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\taras\OneDrive\Desktop\wpf-todo\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\taras\OneDrive\Desktop\wpf-todo\obj\Debug\net7.0-windows\wpf-todo_MarkupCompile.cache
+C:\Users\taras\OneDrive\Desktop\wpf-todo\obj\Debug\net7.0-windows\wpf-todo_MarkupCompile.lref
+C:\Users\taras\OneDrive\Desktop\wpf-todo\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\taras\OneDrive\Desktop\wpf-todo\obj\Debug\net7.0-windows\wpf-todo.g.resources
+C:\Users\taras\OneDrive\Desktop\wpf-todo\obj\Debug\net7.0-windows\wpf-todo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taras\OneDrive\Desktop\wpf-todo\obj\Debug\net7.0-windows\wpf-todo.AssemblyInfoInputs.cache
+C:\Users\taras\OneDrive\Desktop\wpf-todo\obj\Debug\net7.0-windows\wpf-todo.AssemblyInfo.cs
+C:\Users\taras\OneDrive\Desktop\wpf-todo\obj\Debug\net7.0-windows\wpf-todo.csproj.CoreCompileInputs.cache
+C:\Users\taras\OneDrive\Desktop\wpf-todo\obj\Debug\net7.0-windows\wpf-todo.csproj.Up2Date
+C:\Users\taras\OneDrive\Desktop\wpf-todo\obj\Debug\net7.0-windows\wpf-todo.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\obj\Debug\net7.0-windows\refint\wpf-todo.dll
+C:\Users\taras\OneDrive\Desktop\wpf-todo\obj\Debug\net7.0-windows\wpf-todo.pdb
+C:\Users\taras\OneDrive\Desktop\wpf-todo\obj\Debug\net7.0-windows\wpf-todo.genruntimeconfig.cache
+C:\Users\taras\OneDrive\Desktop\wpf-todo\obj\Debug\net7.0-windows\ref\wpf-todo.dll
